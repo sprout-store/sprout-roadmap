@@ -1,3 +1,8 @@
+---
+title: "[Feature Request] "
+labels: enhancement
+---
+
 # ✨ Feature Request
 
 Thanks for taking the time to suggest an improvement to **Sprout**.  
